@@ -1,0 +1,3 @@
+/home/andyoyo/qingwuchuan/PrtSc/build/CMakeFiles/edit_cache.dir
+/home/andyoyo/qingwuchuan/PrtSc/build/CMakeFiles/rebuild_cache.dir
+/home/andyoyo/qingwuchuan/PrtSc/build/CMakeFiles/PtrSc.dir
